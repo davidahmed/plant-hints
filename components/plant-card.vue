@@ -1,8 +1,6 @@
 <template>
-  <div class="drop-shadow-xl m-4 inline-block border bg-white rounded w-3/4 sm:w-60">
-    <div class=" md:w-60 h-40 overflow-hidden object-center rounded-t">
-      <img :src="plant.img" alt="flower image">
-    </div>
+  <div class="drop-shadow-xl m-4 inline-block border rounded w-3/4 sm:w-64">
+    <div class="w-full h-64 sm:w-64 md:h-40 rounded-t bg-no-repeat bg-clip-border bg-center bg-cover" :style="{backgroundImage: `url(${plant.img})`}" />
     <div class="p-2">
       <div class="">
         <div class="flex items-baseline justify-between text-xl font-poppins font-semibold pt-2 align-baseline">
