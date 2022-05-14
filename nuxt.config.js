@@ -28,7 +28,8 @@ export default {
 	components: {
 		dirs: [
 			'~/components',
-			'~/components/icons']
+			'~/components/icons',
+			'~/components/features']
 	},
 
 	// Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
