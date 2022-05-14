@@ -11,12 +11,15 @@
 </template>
 <script>
 import Fuse from 'fuse.js'
+
 export default
 {
-	components: ['maginifying-glass'],
-	props: [
-		'source'
-	],
+	props: {
+		source: {
+			type: Object,
+			default: () => {}
+		}
+	},
 	data () {
 		return {
 			fuseOptions: {
