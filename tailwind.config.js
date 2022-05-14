@@ -15,7 +15,8 @@ module.exports = {
 		extend: {
 			fontFamily:
       {
-      	poppins: ['Roboto', ...defaultTheme.fontFamily.sans]
+      	sans: ['Poppins', ...defaultTheme.fontFamily.sans],
+      	poppins: ['Poppins', ...defaultTheme.fontFamily.sans]
       }
 		}
 	},
