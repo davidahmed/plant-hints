@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import '~/assets/css/fonts';
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
