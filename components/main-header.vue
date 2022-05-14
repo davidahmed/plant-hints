@@ -1,12 +1,12 @@
 <template>
-  <div class="px-4 sm:px-6 lg:px-16 py-8  text-gray-800 py-8">
+  <div class="text-gray-800">
     <div>
-      <p class="text-4xl font-semibold">
+      <p class="text-4xl font-poppins font-semibold">
         PlantHints 🌼
       </p>
     </div>
-    <div class="text-lg text-gray-600 py-2 tracking-wide ">
-      <p>Some catchy phrase here</p>
+    <div class="text-lg text-gray-600 py-2 tracking-wide">
+      <p>Check out some awesome plants and how to take care of them</p>
     </div>
   </div>
 </template>

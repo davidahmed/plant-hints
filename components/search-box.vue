@@ -4,7 +4,7 @@
       <magnifying-glass class="text-gray-500" small="true" />
       <input v-model="searchTerm" class="w-64 text-gray-500 pl-2 pr-2 focus:outline-none w-full" placeholder="Search houseplant by weather, color, or properties" type="search" @change="search">
     </div>
-    <p class="hidden">
+    <p class="hidde">
       {{ search() }}
     </p>
   </div>
