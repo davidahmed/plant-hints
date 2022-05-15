@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center">
+  <div class="flex w-full  md:w-3/4 mx-auto justify-center">
     <Nuxt />
   </div>
 </template>

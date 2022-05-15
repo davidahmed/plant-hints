@@ -1,5 +1,5 @@
 <template>
-  <div class="text-gray-800">
+  <div class="text-gray-800 ">
     <div>
       <p class="text-4xl font-poppins font-semibold">
         PlantHints 🌼
