@@ -14,6 +14,11 @@
     <div class="pt-20 flex flex-wrap justify-center">
       <PlantCard v-for="plant in search(plants)" :key="plant.slug" :plant="plant" />
     </div>
+    <div class=" pt-32 pb-16 w-full text-center ">
+      <p class="text-gray-600 text-sm">
+        This is a project in making; you can contribute to this project <a href="github.com/davidahmed/plant-hints" class="underline">here</a>
+      </p>
+    </div>
   </div>
   </div>
   </div>
