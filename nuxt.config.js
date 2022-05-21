@@ -1,7 +1,7 @@
 export default {
 	// Global page headers: https://go.nuxtjs.dev/config-head
 	head: {
-		title: 'plant-hints',
+		title: 'PlantHints- Find and take care of awesome houseplants',
 		htmlAttrs: {
 			lang: 'en'
 		},
