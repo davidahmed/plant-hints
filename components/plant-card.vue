@@ -1,5 +1,5 @@
 <template>
-  <div class="drop-shadow-xl m-4 inline-block border-2 border-green-400 rounded w-3/4 sm:w-64">
+  <div class="drop-shadow-xl m-4 inline-block border-2 border-gray-200 rounded w-3/4 sm:w-64">
     <div class="h-64 sm:max-w-64 md:h-40 rounded-t bg-center bg-cover" :style="{backgroundImage: `url(${plant.img})`}" />
     <div class="p-2">
       <div class="">
