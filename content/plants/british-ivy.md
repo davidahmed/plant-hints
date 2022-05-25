@@ -1,6 +1,6 @@
 ---
 name: British Ivy
-img: https://hips.hearstapps.com/countryliving.cdnds.net/16/21/1600x1968/gallery-1464186425-daisy.jpg?resize=768:*
+img: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hedera_helix_%28English_ivy%29_3_%2838775361764%29.jpg/800px-Hedera_helix_%28English_ivy%29_3_%2838775361764%29.jpg
 description: This is the coolest plant you can get out there.
 features: ["filters-air", "indoors-outdoors"]
 soil: "well-draining soil"
